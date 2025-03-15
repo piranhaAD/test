@@ -1,0 +1,19 @@
+{
+    "title": "Sample Data",
+    "status": "active",
+    "metadata": {
+        "width": 400,
+        "height": 300,
+        "created": "2025-03-14"
+    },
+    "items": [
+        {
+            "id": 1,
+            "name": "Item One"
+        },
+        {
+            "id": 2,
+            "name": "Item Two"
+        }
+    ]
+}
